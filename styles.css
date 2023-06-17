@@ -1,0 +1,24 @@
+
+    body
+    {
+      background-color:#fcfef7;
+    }
+    hr
+    {
+      border-color:darkgray;
+        border-width: 5px;
+        border-style:none;
+        border-top-style: dotted;
+        height: 0px;
+        width:5%;
+    }
+    h1
+    {
+        color: #47A992;
+        font-family:Consolas, 'Courier New', monospace;
+    }
+    h2
+    {
+        color: #8bba87;
+        font-family:'Papyrus',fantasy;
+    }
